@@ -1,0 +1,55 @@
+html,
+body {
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+}
+.btnrow {
+	margin-top: 30px;
+	justify-content: space-between;
+}
+.btn1 {
+	margin-left: 150px;
+	width: 150px;
+ 
+}
+.btn2 {
+	margin-left: -10px;
+	width: 150px;
+}
+.content {
+	margin: auto;
+	margin-top: 20px;
+	width: 70%;
+	height: auto;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 8px;
+}
+
+.title {
+	padding-top: 100px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 4em;
+	letter-spacing: 0.15rem;
+	color: rgb(27, 26, 26);
+}
+
+label {
+	color: #333;
+}
+
+.result-container {
+	text-align: center;
+	font-weight: 600;
+	font-size: 4em;
+	letter-spacing: 0.15rem;
+	padding: 20px 0 0;
+}
+
+#result {
+	color: #000;
+}
